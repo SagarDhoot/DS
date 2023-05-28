@@ -15,8 +15,9 @@ class TokenRing {
 	int token = 0;
 	int ch = 1;
 	for (int i = 0; i<n; i++)
-
-	System.out.print(" " + i);
+	{
+		System.out.print(" " + i);
+	}
 	System.out.println(" "+ 0);
 
 	try {
